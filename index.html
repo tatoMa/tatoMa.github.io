@@ -19,7 +19,7 @@ layout: main
         <!-- Hero -->
         {% assign featured = posts.first %}
         <section class="hero" style="background-image: url({{ featured.image }})">
-            <div class="pixels"></div>
+            <!-- <div class="pixels"></!--> -->
             <div class="gradient"></div>
             <div class="content">
                 <time datetime="{{ featured.date | date_to_xmlschema }}" class="date">{{ featured.date | date: "%m.%d.%Y" }}</time>

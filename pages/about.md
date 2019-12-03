@@ -6,13 +6,11 @@ permalink: /about/
 menu: true
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
+<img class="img-rounded" src="https://avatars3.githubusercontent.com/u/12379895?s=460&v=4" alt="Thiago Rossener" width="200">
 
-# About
+# About Me
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### A Fledged Full-Stack Web Developer focusing on Front-End
+
+Seeking the path of keeping myself on the right track of web development, self taught modern JavaScript full stack web development experience for 3+ years, as a person who eagerly shows App and design to audiences by using the latest technology. Over 10 years of programming, design and creation experience makes me want to challenge myself. Hence, examining the performance of web App becomes to my focus currently as it requires substantial related knowledge about UX, web programming and the Internet itself.
+##### Current Focus: UX // Performancd // Vue // React
