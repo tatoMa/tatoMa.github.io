@@ -1,8 +1,8 @@
 ---
 date: 2019-12-01 23:48:05
 layout: post
-title: <span style='color:white; background:red'>Performance and Page Speed</span> are crucial.
-subtitle: For those users experiencing an <font color="red">slow speed</font> of opening website with more than <font color="red">7</font> seconds, <span style='text-decoration:underline red;'>1/3</span> of them will never come back.
+title: Performance and Page Speed are crucial.
+subtitle: For those users <span style='color:white; background:red'>experiencing an slow speed</span> of opening website with more than <span style='text-decoration:underline red;'>7</span> seconds, 1/3 of them will <span style='text-decoration:underline red;'>never</span> come back.
 description: >-
   It’s become common knowledge that the speed at which pages load is a crucial part of user experience, and recently page speed has become more and more important in other areas - Google’s search engine ranks pages based on page load time (specifically, time to first byte), and Facebook has announced that it will prioritize links that load quickly in its newsfeed over those that are slow to load, saying “We’ve heard from people that it’s frustrating to click on a link that leads to a slow-loading webpage. In fact, even more broadly on the internet, we’ve found that when people have to wait for a site to load for too long, they abandon what they were clicking on all together.”
 image: >-
