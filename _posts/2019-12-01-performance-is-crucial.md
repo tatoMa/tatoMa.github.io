@@ -60,3 +60,6 @@ Bounce rate is the percentage of visitors who come to your site and leave after 
 The data in this post demonstrates that page speed does have a clear effect on both bounce rate and number of pages viewed, but it’s important to remember that every website is different, and content, design, and overall user experience will also impact these metrics. To measure the effect page speed has on your specific website and visitors, you can install Section’s Real User Monitoring and start collecting this data right away. Section’s RUM is included with all Section accounts, contact us to get started with a free 14 day trial.
 
 [Source from section.io](https://www.section.io/blog/page-load-time-bounce-rate/)
+
+
+

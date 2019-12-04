@@ -1,15 +1,18 @@
 # Site Settings
 name: Jason<span style='color:red'>_</span>Ma
 title: Jason Ma | A Full Stack Developer
-description: A Full Stack Developer.
+description: A Full Stack Developer made by Jason Ma.
 tags:
+  - javascript
+  - css
+  - tatoma
   - blog
+  - jason ma
   - template
   - jekyll
   - theme
-#  - netlify
 email: jason.ma1904@gmail.com
-disqus_username: tatoma
+#disqus_username: tatoma
 show_hero: true
 
 

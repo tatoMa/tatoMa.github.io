@@ -4,7 +4,6 @@
     h3
         margin 0 0 rem(30px)
         font-size rem(30px)
-
 footer
     center(rem(800px))
     border-top 1px solid darken(accentDark, 10%)
@@ -48,13 +47,17 @@ footer
     ul
         padding 0
         list-style-type none
+        display flex
+        justify-content center
         li
-            margin-bottom rem(10px)
+            margin 0 25px
+            :hover
+                color red
         a
             text-decoration none
             font-size rem(15px)
             &:hover
-                text-decoration underline
+                text-decoration none
 
 .main-page
     footer
