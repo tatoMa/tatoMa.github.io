@@ -6,7 +6,7 @@ tags:
   - template
   - jekyll
   - theme
-  - netlify
+#  - netlify
 email: jason.ma1904@gmail.com
 disqus_username: tatoma
 show_hero: true
