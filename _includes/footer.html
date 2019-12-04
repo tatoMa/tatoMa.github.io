@@ -1,42 +1,41 @@
 <footer style="margin: auto;margin-top: 30px; text-align: center;">
     <p>
       {% if site.github_username %}
-        <a href="https://github.com/{{ site.github_username }}" title="Github">
+        <a href="https://github.com/{{ site.github_username }}" title="Github" aria-label="link to Github" rel="noreferrer">
           <svg><use xlink:href="#icon-github"></use></svg>
         </a>
       {% endif %}
       {% if site.facebook_username %}
-        <a href="https://www.facebook.com/{{ site.facebook_username }}" title="Facebook">
+        <a href="https://www.facebook.com/{{ site.facebook_username }}" title="Facebook" aria-label="link to Facebook" rel="noreferrer">
           <svg><use xlink:href="#icon-facebook"></use></svg>
         </a>
       {% endif %}
       {% if site.twitter_username %}
-        <a href="https://twitter.com/{{ site.twitter_username }}" title="Twitter">
+        <a href="https://twitter.com/{{ site.twitter_username }}" title="Twitter" aria-label="link to Twitter" rel="noreferrer">
           <svg><use xlink:href="#icon-twitter"></use></svg>
         </a>
       {% endif %}
       {% if site.medium_username %}
-        <a href="https://medium.com/@{{ site.medium_username }}" title="Medium">
+        <a href="https://medium.com/@{{ site.medium_username }}" title="Medium" aria-label="link to Medium" rel="noreferrer">
           <svg><use xlink:href="#icon-medium"></use></svg>
         </a>
       {% endif %}
       {% if site.instagram_username %}
-        <a href="https://www.instagram.com/{{ site.instagram_username }}" title="Instagram">
+        <a href="https://www.instagram.com/{{ site.instagram_username }}" title="Instagram" aria-label="link to Instagram" rel="noreferrer">
           <svg><use xlink:href="#icon-instagram"></use></svg>
         </a>
       {% endif %}
       {% if site.linkedin_username %}
-        <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn">
+        <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn" aria-label="link to LinkedIn" rel="noreferrer">
           <svg><use xlink:href="#icon-linkedin"></use></svg>
         </a>
       {% endif %}
     </p>
-    <div style="display: inline;">
-      {% include links.html %}
-    </div>
+    
+    {% include links.html %}
 
     <p>
-      Modified by <span>Jason_Ma</span><br><span>Jekflix</span> was made with <svg class="love"><use xlink:href="#icon-heart"></use></svg> by <a href="https://rossener.com" target="_blank" class="creator">Thiago Rossener</a>
+      Modified by <span>Jason_Ma</span><br><span>Jekflix</span> was made with <svg class="love"><use xlink:href="#icon-heart"></use></svg> by <a href="https://rossener.com" target="_blank" class="creator" rel="noreferrer">Thiago Rossener</a>
     </p>
 </footer>
 
