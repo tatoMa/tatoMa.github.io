@@ -2,13 +2,19 @@
   <li>
     <a href="{{ site.url }}{{site.baseurl}}/">Home</a>
   </li>
-  {% for page in site.pages %}
+  <li>
+    <a href="{{ site.url }}{{site.baseurl}}/blogs/">Blogs</a>
+  </li>
+  <li>
+    <a href="{{ site.url }}{{site.baseurl}}/about/">About</a>
+  </li>
+  <!-- {% for page in site.pages %}
     {% if page.menu %}
       <li>
         <a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
       </li>
     {% endif %}
-  {% endfor %}
+  {% endfor %} -->
   {% if site.email %}
     <li>
       <a href="{{ site.url }}{{site.baseurl}}/contact/">Contact</a>

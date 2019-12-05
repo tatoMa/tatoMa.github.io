@@ -8,6 +8,7 @@ image: /assets/img/uploads/2019-11-20-Javascript_m.jpg
 optimized_image: /assets/img/uploads/2019-11-20-Javascript_s.jpg
 category: code
 tags:
+  - blog
   - javascript
 author: jasonma
 ---

@@ -11,6 +11,7 @@ optimized_image: >-
   https://images.pexels.com/photos/785418/pexels-photo-785418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=320&w=480&fit=crop&fm=jpg
 category: code
 tags:
+  - blog
   - javascript
 author: bitsrc
 paginate: false

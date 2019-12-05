@@ -11,7 +11,6 @@ optimized_image: >-
   /assets/img/uploads/2019-12-01-performance-is-crucial_s.jpg
 category: blog
 tags:
-  - welcome
   - blog
   - performance
 author: Section

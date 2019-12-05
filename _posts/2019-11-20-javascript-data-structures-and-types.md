@@ -8,6 +8,7 @@ image: https://images.pexels.com/photos/792199/pexels-photo-792199.jpeg?auto=com
 optimized_image: https://images.pexels.com/photos/792199/pexels-photo-792199.jpeg?crop=entropy&cs=srgb&dl=shallow-focus-photography-of-macbook-792199.jpg&dpr=2&h=320&w=480&fit=crop&fm=jpg
 category: code
 tags:
+  - blog
   - javascript
 author: jasonma
 ---
