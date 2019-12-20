@@ -1,6 +1,6 @@
 ## My blog based on the Jekyll and themed by [Jekflix template](https://github.com/thiagorossener/jekflix-template)
 
-[Visit My Blog](tatoma.github.io)
+[Visit My Blog](https://tatoma.github.io)
 
 ## Setup
 
