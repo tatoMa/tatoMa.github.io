@@ -1,4 +1,4 @@
-## My blog based on the Jekyll and themed by [Jekflix template](https://github.com/thiagorossener/jekflix-template)
+## My blog is based on the Jekyll and themed by [Jekflix template](https://github.com/thiagorossener/jekflix-template)
 
 [Visit My Blog](https://tatoma.github.io)
 
