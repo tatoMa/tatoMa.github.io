@@ -79,6 +79,7 @@ paginate_content:
 plugins:
   - jekyll-paginate
   - jekyll-paginate-content
+  - jekyll-minifier
 
 # Exclude my node related stuff
 exclude: [
