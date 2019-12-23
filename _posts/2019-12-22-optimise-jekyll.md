@@ -1,5 +1,5 @@
 ---
-date: 2019-12-23 01:48:05
+date: 2019-12-22 01:48:05
 layout: post
 title: Automatically optimise jekyll by plugins
 subtitle: jekyll-minifier is a jekyll plugin for minimise not only HTML but also Javascript, JSON and CSS files. The way using it is quite simple
