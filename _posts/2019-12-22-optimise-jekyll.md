@@ -4,8 +4,8 @@ layout: post
 title: Automatically optimise jekyll by plugins
 subtitle: jekyll-minifier is a jekyll plugin for minimise not only HTML but also Javascript, JSON and CSS files. The way using it is quite simple
 description: There are a lots of plugins for jekyll static site generator specially for optimising purposes such as image document and javascrpit minimization. 
-image: /assets/img/uploads/2019-12-23.jpg
-optimized_image: /assets/img/uploads/2019-12-23_s.jpg
+image: /assets/img/uploads/2019-12-23-2.jpg
+optimized_image: /assets/img/uploads/2019-12-23-2_s.jpg
 category: code
 tags:
   - blog
