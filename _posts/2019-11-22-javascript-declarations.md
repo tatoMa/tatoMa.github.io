@@ -4,7 +4,7 @@ layout: post
 title: Javascript Declarations
 subtitle: LJavascript Declarations
 description: When declare by using var and led with no initial assigned value, undefined will be assigned them. But the different is var will always hoisted but let will not.
-image: /assets/img/uploads/2019-11-20-Javascript_m.jpg
+image: /assets/img/uploads/2019-11-20-Javascript.jpg
 optimized_image: /assets/img/uploads/2019-11-20-Javascript_s.jpg
 category: code
 tags:

@@ -6,7 +6,7 @@ subtitle: For those users <span style='color:white; background:red'>experiencing
 description: >-
   It’s become common knowledge that the speed at which pages load is a crucial part of user experience, and recently page speed has become more and more important in other areas - Google’s search engine ranks pages based on page load time (specifically, time to first byte), and Facebook has announced that it will prioritize links that load quickly in its newsfeed over those that are slow to load, saying “We’ve heard from people that it’s frustrating to click on a link that leads to a slow-loading webpage. In fact, even more broadly on the internet, we’ve found that when people have to wait for a site to load for too long, they abandon what they were clicking on all together.”
 image: >-
-  /assets/img/uploads/2019-12-01-performance-is-crucial_m.jpg
+  /assets/img/uploads/2019-12-01-performance-is-crucial.jpg
 optimized_image: >-
   /assets/img/uploads/2019-12-01-performance-is-crucial_s.jpg
 category: blog

@@ -4,8 +4,8 @@ layout: post
 title: Javascript Data structures and types
 subtitle: Javascript - Data structures and types
 description: The latest ECMAScript standard defines eight data types
-image: https://images.pexels.com/photos/792199/pexels-photo-792199.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=854&w=1280
-optimized_image: https://images.pexels.com/photos/792199/pexels-photo-792199.jpeg?crop=entropy&cs=srgb&dl=shallow-focus-photography-of-macbook-792199.jpg&dpr=2&h=320&w=480&fit=crop&fm=jpg
+image: /assets/img/uploads/2019-12-23.jpg
+optimized_image: /assets/img/uploads/2019-12-23_s.jpg
 category: code
 tags:
   - blog

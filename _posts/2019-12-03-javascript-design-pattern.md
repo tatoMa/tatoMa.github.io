@@ -5,10 +5,8 @@ title: Design patterns with Javascript
 subtitle: Everything related to design pattern when using Javascript
 description: >-
   a design pattern is a reusable solution for commonly occurring problems in software design, it represents the best practices used by the experienced software developers.
-image: >-
-  https://images.pexels.com/photos/785418/pexels-photo-785418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940&fit=crop&fm=jpg
-optimized_image: >-
-  https://images.pexels.com/photos/785418/pexels-photo-785418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=320&w=480&fit=crop&fm=jpg
+image: /assets/img/uploads/2019-12-22.jpg
+optimized_image: /assets/img/uploads/2019-12-22_s.jpg
 category: code
 tags:
   - blog
