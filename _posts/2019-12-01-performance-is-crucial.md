@@ -4,7 +4,7 @@ layout: post
 title: Performance and Page Speed are crucial.
 subtitle: For those users <span style='color:white; background:red'>experiencing an slow speed</span> of opening a website with more than <span style='text-decoration:underline red;'>7 seconds</span>, 1/3 of them will <span style='text-decoration:underline red;'>never</span> come back.
 description: >-
-  It’s become common knowledge that the speed at which pages load is a crucial part of user experience, and recently page speed has become more and more important in other areas - Google’s search engine ranks pages based on page load time.
+  The speed at which pages load is a crucial part of user experience, and recently it has become more and more important in other areas - Google’s search engine ranks pages based on page load time.
 image: >-
   /assets/img/uploads/2019-12-01-performance-is-crucial.jpg
 optimized_image: >-
