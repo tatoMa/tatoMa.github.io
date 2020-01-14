@@ -1,5 +1,5 @@
 ---
-date: 2020-01-14 10:48:05
+date: 2020-01-13 10:48:05
 layout: post
 title: My notes by learning Javascript 01
 subtitle: My notes by learning Javascript 01

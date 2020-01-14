@@ -2,6 +2,18 @@
 
 [Visit My Blog](https://tatoma.github.io)
 
+## Installing and Running
+
+- Clone the repo 
+- Access the local project:
+`$ cd path/to/jekyll-template`
+- Install npm packages:
+`$ npm install`
+- Build Jekyll:
+`$ bundle exec jekyll build`
+- Then run Gulp:
+`$ gulp`
+
 ## Setup
 
 - [Environment](https://github.com/thiagorossener/jekflix-template/wiki/setup#environment)
