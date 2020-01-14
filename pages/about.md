@@ -8,14 +8,15 @@ menu: true
 
 <img class="img-rounded" src="https://avatars3.githubusercontent.com/u/12379895?s=460&v=4" alt="Thiago Rossener" width="200">
 
-# About Me
+# ABOUT ME
 
 ### A Fledged Full-Stack Web Developer focusing on Front-End
 
-Seeking the path of keeping myself on the right track of web development, self taught modern JavaScript full stack web development experience for 3+ years, as a person who eagerly shows App and design to audiences by using the latest technology. Over 10 years of programming, design and creation experience makes me want to challenge myself. Hence, examining the performance of web App becomes to my focus currently as it requires substantial related knowledge about UX, web programming and the Internet itself.
-##### Current Focus: UX // Performancd // Vue // React
+Currently working as a Frontend Developer in Melbourne focusing on the performance of the web Apps. Over 10 years of programming, design and creation experience make me want to challenge myself, therefore; my work has been pretty diverse and enjoyable. For more information about me please follow one of my social media links above or at the bottom of the page.
 
-# Experiences
+##### Current Focus: UX // Performance // FrontEnd
+
+# EXPERIENCE
 
 ### full-stack web development (2016 - current)
 ##### Front-End
@@ -36,4 +37,13 @@ Seeking the path of keeping myself on the right track of web development, self t
 - Making front-end UI components for a goverment project called NSW E-health
 - Application improvement and enhancement of performance and user experience
 - Real mobile and computer device testing
+
+# TECH
+<span style="display: flex;">
+<img src="/assets/img/tech/react.png" alt="drawing" style="height:64px;"/>
+<img src="/assets/img/tech/es6.png" alt="drawing" style="height:64px;"/>
+<img src="/assets/img/tech/sass.png" alt="drawing" style="height:64px;"/>
+<img src="/assets/img/tech/photoshop.png" alt="drawing" style="height:64px;"/>
+<img src="/assets/img/tech/webpack.png" alt="drawing" style="height:64px;"/>
+</span>
 
