@@ -2,7 +2,7 @@
 date: 2020-01-13 12:49:05
 layout: post
 title: Performance and Page Speed are crucial.
-subtitle: <span style='background-color:black;line-height:2.5rem; font-size:1.2rem'>For those users <span style='color:white; background:red'>experiencing an slow speed</span> of opening a website with more than <span style='text-decoration:underline red;'>7 seconds</span>, 1/3 of them will <span style='text-decoration:underline red;'>never</span> come back.</span>
+subtitle: <span style='background-color:black;line-height:2.5rem; font-size:1.35rem'>For those users <span style='color:white; background:red'>experiencing an slow speed</span> of opening a website with more than <span style='text-decoration:underline red;'>7 seconds</span>, 1/3 of them will <span style='text-decoration:underline red;'>never</span> come back.</span>
 description: >-
   The speed at which pages load is a crucial part of user experience, and recently it has become more and more important in other areas - Google’s search engine ranks pages based on page load time.
 image: >-
